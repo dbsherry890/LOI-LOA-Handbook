@@ -1,0 +1,12 @@
+<html> 
+  <head>
+    <title>Sprint Analysis</title> 
+    <link rel="stylesheet" type="text/css" href="mvp.css" />
+  </head>
+
+  <body  class="pg"> 
+    <h1>LOI/LOA/Handbook for 2023-2024 school year</h1> 
+    <h2>This report quantifies how many teachers have signed the LOI, LOA and PLI Handbook</h2>
+    <iframe title="Report Section" width="900" height="675" src="https://app.powerbi.com/view?r=eyJrIjoiZDRmYTFhZmUtN2UxNS00ZGYyLThhZjMtNWI0ZjZjYWIxZmY5IiwidCI6IjJjZjFiZWMwLTI1MmQtNGU1Yi05Y2QwLTRkMGJiZjI2MTRlYSJ9" frameborder="0" allowFullScreen="true"></iframe>
+  </body>
+</html>
